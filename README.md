@@ -16,6 +16,8 @@ Ideas for Smart Files - filenation.io
 * Bot-file. You can talk to it.
 * Permissions (sharing).
 * The file can not be shared if one does not want to.
+* To be able to replace / modify the file in real time and that it receives the person too. (somebody like google drive that you share in the link and if you modify you file the person when the modified voice enters).
+
 
 
 ## Implementation
