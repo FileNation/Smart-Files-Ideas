@@ -22,6 +22,7 @@ Ideas for Smart Files - filenation.io
 * A file that is generated from a table of contents at the time would be useful but it is a very tangential case in the generative plan of seleactivitat scams or questionnaires or so that they are different at a time or photo presentations...
 * Easiest way to access your files.
 * Files that can only be unlocked if a certain amount of people wants to.
+* Files that can only be unlocked once a payement is made.
 
 
 
