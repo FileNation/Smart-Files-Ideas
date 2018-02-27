@@ -15,9 +15,5 @@ Ideas for Smart Files - filenation.io
 * Automatically generated name files. Identifies the content.
 * Bot-file. You can talk to it.
 * Permissions (sharing)
-
-
-## Implementation
-
-
+* External variable-dependant file content.
 
