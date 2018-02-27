@@ -14,11 +14,17 @@ Ideas for Smart Files - filenation.io
 * Geocaching-based files. They can only been opened in a particular place.
 * Automatically generated name files. Identifies the content.
 * Bot-file. You can talk to it.
+* Permissions (sharing)
+* External variable-dependant file content.
 * Permissions (sharing).
 * The file can not be shared if one does not want to.
 * To be able to replace / modify the file in real time and that it receives the person too. (somebody like google drive that you share in the link and if you modify you file the person when the modified voice enters).
 * A file that is generated from a table of contents at the time would be useful but it is a very tangential case in the generative plan of seleactivitat scams or questionnaires or so that they are different at a time or photo presentations...
+<<<<<<< HEAD
 * Easiest way to access your files.
+=======
+* Magic Files
+>>>>>>> 66b0365375c1968902716d7aec5554174d7a06e1
 
 
 
