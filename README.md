@@ -20,11 +20,10 @@ Ideas for Smart Files - filenation.io
 * The file can not be shared if one does not want to.
 * To be able to replace / modify the file in real time and that it receives the person too. (somebody like google drive that you share in the link and if you modify you file the person when the modified voice enters).
 * A file that is generated from a table of contents at the time would be useful but it is a very tangential case in the generative plan of seleactivitat scams or questionnaires or so that they are different at a time or photo presentations...
-<<<<<<< HEAD
 * Easiest way to access your files.
-=======
-* Magic Files
->>>>>>> 66b0365375c1968902716d7aec5554174d7a06e1
+* Files that can only be unlocked if a certain amount of people wants to.
+
+
 
 
 
