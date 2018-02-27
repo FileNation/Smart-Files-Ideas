@@ -14,10 +14,8 @@ Ideas for Smart Files - filenation.io
 * Geocaching-based files. They can only been opened in a particular place.
 * Automatically generated name files. Identifies the content.
 * Bot-file. You can talk to it.
-* Permissions (sharing)
+* Permissions (sharing).
+* The file can not be shared if one does not want to.
 
 
 ## Implementation
-
-
-
